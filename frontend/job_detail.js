@@ -25,6 +25,6 @@ fetch(`http://localhost:8080/api/jobs/${jobId}`)
 
 
 /*   
-    open your page like this in browser: 
+    open your page in browser: 
     job-detail.html?id=1
 */
